@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandasCute&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandasCute&show_icons=true&theme=highcontrast&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
+)
 
 🔭 I’m currently working on didi
