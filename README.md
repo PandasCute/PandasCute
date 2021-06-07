@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+🔭 I’m currently working on didi
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandasCute&show_icons=true&theme=highcontrast)
 
