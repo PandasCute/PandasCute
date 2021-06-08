@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-< img align="right" src="https://github-readme-stats.vercel.app/api?username=PandasCute&show_icons=true&theme=cobalt">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=PandasCute&show_icons=true&theme=cobalt">
 
 🔭 现为算法工程师   
 🌱 主要方向为风控方向    
