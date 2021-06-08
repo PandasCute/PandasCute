@@ -44,8 +44,9 @@ Here are some ideas to get you started:
 
 🔭 现为算法工程师   
 🌱 主要方向为风控方向    
- 主要获奖经历   
-<a name=kaggle>https://www.kaggle.com/lovedm/account?isEditing=False</ a>
+ 主要获奖经历  
+ [kaggle Master]https://www.kaggle.com/lovedm)
+
   
 2021-第二届“马栏山杯”国际音视频算法大赛--top5
 2021-Riiid Answer Correctness Prediction- 银牌
